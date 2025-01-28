@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ramamarturi/usermanagementassignment.git/static/css/main.9e0edf97.css",
+    "main.js": "/ramamarturi/usermanagementassignment.git/static/js/main.d7293a91.js",
+    "static/js/488.3d42147f.chunk.js": "/ramamarturi/usermanagementassignment.git/static/js/488.3d42147f.chunk.js",
+    "index.html": "/ramamarturi/usermanagementassignment.git/index.html",
+    "main.9e0edf97.css.map": "/ramamarturi/usermanagementassignment.git/static/css/main.9e0edf97.css.map",
+    "main.d7293a91.js.map": "/ramamarturi/usermanagementassignment.git/static/js/main.d7293a91.js.map",
+    "488.3d42147f.chunk.js.map": "/ramamarturi/usermanagementassignment.git/static/js/488.3d42147f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0edf97.css",
+    "static/js/main.d7293a91.js"
+  ]
+}
